@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Duc308
+- 👀 I’m interested in using machine learning and optimization methods for experiment planning
+- 🌱 I’m currently a 4th year undergraduate student at UC San Diego
+- 💞️ I’m looking to collaborate on everything! I'm eager to explore what others are working on
+- 📫 How to reach me dht003@ucsd.edu
